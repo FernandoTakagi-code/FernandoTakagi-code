@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software`**
 
-Me chamo Fernando Takagi, tenho 20 anos. Estudante de Engenharia de Software (7º semestre) na UMC. Interessado em desenvolvimento backend, Machine Learning e segurança da informação. Experiência com Java, Python, APIs, PostgreSQL e conceitos de redes. Sempre buscando aprender novas tecnologias e desenvolver projetos práticos.
+Me chamo Fernando Takagi, tenho 20 anos. Estudante de Engenharia de Software (7º semestre) na UMC. Interessado em desenvolvimento backend, Machine Learning e segurança da informação. Experiência com Typescript, Python, APIs, PostgreSQL e conceitos de redes. Sempre buscando aprender novas tecnologias e desenvolver projetos práticos.
 
 <p align="left">
      <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
